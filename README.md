@@ -1,6 +1,6 @@
 # LLM Evaluation Lab
 
-A public portfolio of systematic large language model evaluation.
+A public research portfolio dedicated to systematic evaluation of large language models.
 
 This lab examines how AI models perform across factual accuracy, hallucination risk, reasoning, instruction following, bilingual English-Spanish communication, safety, search quality, and prompt responsiveness.
 
@@ -46,7 +46,7 @@ Evaluations in this lab follow several core principles:
 ## Core Evaluation Criteria
 
 | Criterion | Score |
-|---|---:|
+| --- | ---: |
 | Accuracy | /5 |
 | Reasoning | /5 |
 | Instruction Following | /5 |
@@ -64,7 +64,7 @@ Hallucination severity is evaluated separately from overall quality. A response 
 
 ## Foundation Repositories
 
-### [AI Evaluation Rubrics](https://github.com/zaknick/AI-Evaluation-Rubrics)
+### [AI-Evaluation-Rubrics](https://github.com/zaknick/AI-Evaluation-Rubrics)
 
 Shared scoring standards and evaluation methodology used throughout the lab.
 
@@ -76,43 +76,43 @@ Reusable workflow documentation for conducting consistent AI evaluations.
 
 **Status:** Active
 
-### AI Hallucination Database
+### AI-Hallucination-Database
 
 Evidence-backed investigations of fabricated facts, unsupported claims, invented citations, misleading certainty, and other model failures.
 
-**Status:** First project in development
+**Status:** First project under active development
 
-### Prompt Arena
+### Prompt-Arena
 
 Side-by-side comparisons of multiple AI models answering the same prompt.
 
 **Status:** Planned
 
-### LLM Evaluation Benchmarks
+### LLM-Evaluation-Benchmarks
 
 A structured benchmark suite covering reasoning, factuality, translation, summarization, ambiguity, instruction following, writing, legal reasoning, and safety.
 
 **Status:** Planned
 
-### Bilingual LLM Evaluation
+### Bilingual-LLM-Evaluation
 
 English-Spanish evaluation covering translation, localization, idioms, regional usage, tone, terminology, false cognates, and code-switching.
 
 **Status:** Planned
 
-### AI Safety Evaluation
+### AI-Safety-Evaluation
 
 Testing of refusal quality, safe alternatives, prompt injection resistance, instruction conflicts, jailbreak resistance, over-refusal, and under-refusal.
 
 **Status:** Planned
 
-### Search Quality Ratings
+### Search-Quality-Ratings
 
 Evaluation of search results and AI-generated summaries for relevance, authority, trustworthiness, freshness, coverage, and citation accuracy.
 
 **Status:** Planned
 
-### Prompt Engineering Cookbook
+### Prompt-Engineering-Cookbook
 
 Case studies showing weak prompts, improved prompts, before-and-after outputs, and explanations of why each revision works.
 
@@ -140,38 +140,38 @@ The videos complement the written evaluations. They do not replace the underlyin
 
 ### Phase 1: Foundation
 
-- Maintain the portfolio homepage
-- Expand the universal evaluation rubric beyond Version 0.1
-- Develop reusable evaluation workflows and templates
-- Maintain file and naming conventions
+- Maintain the portfolio homepage.
+- Expand the universal evaluation rubric beyond Version 0.1.
+- Develop reusable evaluation workflows and templates.
+- Maintain file and naming conventions.
 
 ### Phase 2: Initial Evidence
 
-- Publish the first hallucination evaluations
-- Compare multiple models using identical prompts
-- Begin bilingual English-Spanish evaluations
+- Publish the first hallucination evaluations.
+- Compare multiple models using identical prompts.
+- Begin bilingual English-Spanish evaluations.
 
 ### Phase 3: Expansion
 
-- Release the initial benchmark set
-- Add safety and search-quality cases
-- Publish prompt-engineering case studies
-- Produce aggregate findings and reports
+- Release the initial benchmark set.
+- Add safety and search-quality cases.
+- Publish prompt-engineering case studies.
+- Produce aggregate findings and reports.
 
 ### Phase 4: Communication
 
-- Publish AI Thingy Crash Test Lab videos
-- Connect videos to the corresponding written evaluations
-- Create concise visual summaries for selected cases
+- Publish AI Thingy Crash Test Lab videos.
+- Connect videos to the corresponding written evaluations.
+- Create concise visual summaries for selected cases.
 
 ## Current Status
 
 The laboratory framework is under active development.
 
-The first major project will be the **AI Hallucination Database**.
+The first major project under active development is the **AI-Hallucination-Database**.
 
 ## Contact
 
 - GitHub: [zaknick](https://github.com/zaknick)
-- Professional email: To be added
-- Available for remote AI evaluation, bilingual model review, data annotation, and quality-assurance work
+- Professional email: To be added.
+- Available for remote AI evaluation, bilingual model review, data annotation, and quality-assurance work.
