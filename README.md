@@ -166,9 +166,9 @@ The videos complement the written evaluations. They do not replace the underlyin
 
 ## Current Status
 
-The laboratory framework is under active development
+The laboratory framework is under active development.
 
-The first major project under active development is the **AI-Hallucination-Database**
+The first major project under active development is the **AI-Hallucination-Database**.
 
 ## Contact
 
