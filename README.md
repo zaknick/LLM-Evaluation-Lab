@@ -1,6 +1,6 @@
 # LLM Evaluation Lab
 
-A public research portfolio dedicated to systematic evaluation of large language models.
+A public research portfolio dedicated to rigorous evaluation of large language models.
 
 This lab examines how AI models perform across factual accuracy, hallucination risk, reasoning, instruction following, bilingual English-Spanish communication, safety, search quality, and prompt responsiveness.
 
@@ -140,38 +140,38 @@ The videos complement the written evaluations. They do not replace the underlyin
 
 ### Phase 1: Foundation
 
-- Maintain the portfolio homepage.
-- Expand the universal evaluation rubric beyond Version 0.1.
-- Develop reusable evaluation workflows and templates.
-- Maintain file and naming conventions.
+- Maintain the portfolio homepage
+- Expand the universal evaluation rubric beyond Version 0.1
+- Develop reusable evaluation workflows and templates
+- Maintain file and naming conventions
 
 ### Phase 2: Initial Evidence
 
-- Publish the first hallucination evaluations.
-- Compare multiple models using identical prompts.
-- Begin bilingual English-Spanish evaluations.
+- Publish the first hallucination evaluations
+- Compare multiple models using identical prompts
+- Begin bilingual English-Spanish evaluations
 
 ### Phase 3: Expansion
 
-- Release the initial benchmark set.
-- Add safety and search-quality cases.
-- Publish prompt-engineering case studies.
-- Produce aggregate findings and reports.
+- Release the initial benchmark set
+- Add safety and search-quality cases
+- Publish prompt-engineering case studies
+- Produce aggregate findings and reports
 
 ### Phase 4: Communication
 
-- Publish AI Thingy Crash Test Lab videos.
-- Connect videos to the corresponding written evaluations.
-- Create concise visual summaries for selected cases.
+- Publish AI Thingy Crash Test Lab videos
+- Connect videos to the corresponding written evaluations
+- Create concise visual summaries for selected cases
 
 ## Current Status
 
-The laboratory framework is under active development.
+The laboratory framework is under active development
 
-The first major project under active development is the **AI-Hallucination-Database**.
+The first major project under active development is the **AI-Hallucination-Database**
 
 ## Contact
 
 - GitHub: [zaknick](https://github.com/zaknick)
-- Professional email: To be added.
-- Available for remote AI evaluation, bilingual model review, data annotation, and quality-assurance work.
+- Professional email: To be added
+- Available for remote AI evaluation, bilingual model review, data annotation, and quality-assurance work
