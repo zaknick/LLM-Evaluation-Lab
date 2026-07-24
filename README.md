@@ -58,13 +58,23 @@ Evaluations in this lab follow several core principles:
 
 Specialized projects may add criteria such as localization, semantic fidelity, refusal quality, source authority, or prompt robustness.
 
-## Projects
+## Hallucination Severity
 
-### AI Evaluation Rubrics
+Hallucination severity is evaluated separately from overall quality. A response may be well written yet contain severe factual errors, or be factually correct while exhibiting weaknesses in clarity, completeness, or reasoning. For that reason, hallucination severity is tracked independently and is **not included** in the overall quality score.
+
+## Foundation Repositories
+
+### [AI Evaluation Rubrics](https://github.com/zaknick/AI-Evaluation-Rubrics)
 
 Shared scoring standards and evaluation methodology used throughout the lab.
 
-**Status:** Planned
+**Status:** Active (Version 0.1)
+
+### [AI-Evaluation-Workflow](https://github.com/zaknick/AI-Evaluation-Workflow)
+
+Reusable workflow documentation for conducting consistent AI evaluations.
+
+**Status:** Active
 
 ### AI Hallucination Database
 
@@ -130,10 +140,10 @@ The videos complement the written evaluations. They do not replace the underlyin
 
 ### Phase 1: Foundation
 
-- Create the portfolio homepage
-- Publish the universal evaluation rubric
-- Create evaluation templates
-- Establish file and naming conventions
+- Maintain the portfolio homepage
+- Expand the universal evaluation rubric beyond Version 0.1
+- Develop reusable evaluation workflows and templates
+- Maintain file and naming conventions
 
 ### Phase 2: Initial Evidence
 
